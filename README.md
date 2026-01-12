@@ -57,3 +57,69 @@ cypress/
 ├─ pages/      → Page Objects (mapeamento das telas)
 ├─ fixtures/   → Massa de dados para os testes
 └─ support/    → Configurações e comandos auxiliares
+
+```
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+* JavaScript
+* Cypress
+* Node.js
+* Git e GitHub
+
+---
+
+## ▶️ Como Executar o Projeto
+
+### 🔧 Pré-requisitos
+
+* Node.js instalado
+* Git instalado
+
+### 📥 Instalar dependências
+
+```bash
+npm install
+```
+
+### ▶️ Executar testes no modo visual
+
+```bash
+npx cypress open
+```
+
+### ▶️ Executar testes no modo headless
+
+```bash
+npx cypress run
+```
+
+---
+
+## 📊 Evidências de Teste
+
+* Screenshots automáticos em caso de falha
+* Vídeos de execução dos testes
+* Logs detalhados do Cypress
+
+Arquivos grandes (vídeos e screenshots) não são versionados no GitHub, seguindo boas práticas.
+
+---
+
+## 📚 Aprendizados Aplicados
+
+* Testes End-to-End (E2E)
+* Boas práticas de automação
+* Organização de testes com Page Objects
+* Versionamento com Git
+* Estruturação de um portfólio profissional em QA
+
+---
+
+## 👩‍💻 Autora
+
+**Ana Carolina Domingues**
+🎯 Analista de QA em formação
+🔗 GitHub: [https://github.com/CarolDominguess](https://github.com/CarolDominguess)
+
