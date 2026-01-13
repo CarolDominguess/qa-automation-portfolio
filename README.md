@@ -134,3 +134,9 @@ Em ambientes reais, essas informações devem ser armazenadas em variáveis de a
 
 🔗 GitHub: [https://github.com/CarolDominguess](https://github.com/CarolDominguess)
 
+## 🎥 Execução dos Testes
+
+![Execução dos testes Cypress](evidencias/cypress-run.gif)
+
+
+
