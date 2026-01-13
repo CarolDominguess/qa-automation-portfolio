@@ -2,8 +2,9 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: "https://www.automationpratice.com.br",
+    baseUrl: "https://automationexercise.com",
     video: true,
     screenshotOnRunFailure: true
   },
 });
+
