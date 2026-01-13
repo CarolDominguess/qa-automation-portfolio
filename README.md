@@ -120,6 +120,8 @@ Arquivos grandes (vídeos e screenshots) não são versionados no GitHub, seguin
 ## 👩‍💻 Autora
 
 **Ana Carolina Domingues**
+
 🎯 Analista de QA em formação
+
 🔗 GitHub: [https://github.com/CarolDominguess](https://github.com/CarolDominguess)
 
