@@ -119,12 +119,10 @@ Arquivos grandes (vídeos e screenshots) não são versionados no GitHub, seguin
 
 ## 🔐 Credenciais de Teste
 
-Este projeto utiliza um **usuário de teste** criado no site público *Automation Exercise*, utilizado exclusivamente para fins de automação.
+As credenciais utilizadas nos testes positivos estão definidas diretamente nos arquivos de teste para fins demonstrativos, pois o sistema testado é público e destinado a testes.
 
-- **Email:** testeqanew@email.com  
-- **Senha:** Teste@123  
+Em ambientes reais, essas informações devem ser armazenadas em variáveis de ambiente.
 
-📌 Essas credenciais não correspondem a dados reais e podem ser alteradas ou removidas a qualquer momento.
 
 ---
 
