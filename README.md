@@ -2,7 +2,7 @@
 
 Este repositório faz parte do meu **portfólio como Analista de QA**, contendo **testes automatizados End-to-End (E2E)** desenvolvidos sobre o site:
 
-🔗 **https://www.automationpratice.com.br**
+🔗 **[https://www.automationpratice.com.br](https://automationexercise.com/)**
 
 O objetivo deste projeto é demonstrar, na prática, minhas habilidades em **Qualidade de Software**, desde a organização dos testes até a automação de fluxos críticos de negócio.
 
@@ -114,6 +114,17 @@ Arquivos grandes (vídeos e screenshots) não são versionados no GitHub, seguin
 * Organização de testes com Page Objects
 * Versionamento com Git
 * Estruturação de um portfólio profissional em QA
+
+---
+
+## 🔐 Credenciais de Teste
+
+Este projeto utiliza um **usuário de teste** criado no site público *Automation Exercise*, utilizado exclusivamente para fins de automação.
+
+- **Email:** testeqanew@email.com  
+- **Senha:** Teste@123  
+
+📌 Essas credenciais não correspondem a dados reais e podem ser alteradas ou removidas a qualquer momento.
 
 ---
 
