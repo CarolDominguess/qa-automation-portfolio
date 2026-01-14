@@ -51,6 +51,19 @@ Os testes cobrem os principais fluxos do sistema, incluindo:
 
 ---
 
+## 📋 Casos de Teste Automatizados
+
+| ID | Funcionalidade | Cenário | Resultado Esperado |
+|----|----------------|---------|--------------------|
+| CT-01 | Login | Login com dados válidos | Usuário deve ser autenticado com sucesso |
+| CT-02 | Login | Login com senha inválida | Exibir mensagem de erro |
+| CT-03 | Cadastro | Criar novo usuário | Conta criada com sucesso |
+| CT-04 | Produtos | Buscar produto existente | Produto exibido na lista |
+| CT-05 | Carrinho | Adicionar produto ao carrinho | Produto adicionado corretamente |
+| CT-06 | Checkout | Finalizar compra | Compra finalizada com sucesso |
+
+---
+
 ## 🧱 Estrutura do Projeto
 
 ```text
