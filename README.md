@@ -6,6 +6,8 @@ Este repositório faz parte do meu **portfólio como Analista de QA**, contendo 
 
 O objetivo deste projeto é demonstrar, na prática, minhas habilidades em **Qualidade de Software**, desde a organização dos testes até a automação de fluxos críticos de negócio.
 
+[![Cypress Tests](https://github.com/CarolDominguess/qa-automation-portfolio/actions/workflows/automation.yml/badge.svg)](https://github.com/CarolDominguess/qa-automation-portfolio/actions/workflows/automation.yml)
+
 ---
 
 ## 🎯 Objetivo do Projeto
