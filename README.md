@@ -151,7 +151,7 @@ Em ambientes reais, essas informações devem ser armazenadas em variáveis de a
 
 ## 🎥 Execução dos Testes
 
-![Execução dos testes Cypress](evidencias/cypress-run.gif)
+![Execução dos testes Cypress](evidencias/cypressrun.gif)
 
 
 
